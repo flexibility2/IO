@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70886062-ba8b-4069-995d-f568d0d7f88d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/IO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aio_chat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ChatClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ChatServer$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ChatServer$AcceptHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ChatServer$ClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ChatServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nio_chat/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nio_chat/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nio_chat/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nio_chat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nio_chat/nio_chat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nio_chat/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nio_chat/src/main/java/com/wxt/client/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nio_chat/src/main/java/com/wxt/client/chatClientHander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nio_chat/src/main/java/com/wxt/server/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nio_chat/target/classes/com/wxt/client/ChatClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nio_chat/target/classes/com/wxt/client/chatClientHander.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nio_chat/target/classes/com/wxt/server/ChatServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nio_file_copy/ChannelDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nio_file_copy/src/main/java/com/wxt/FileCopyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nio_file_copy/src/main/java/com/wxt/FileCopyRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_server/src/main/java/connector/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_server/web_server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_server/webroot/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_server/webroot/images/timg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web_server/webroot/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bio/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bio/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\develop\maven_repository" />
+        <option name="mavenHome" value="F:/develop/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="F:\develop\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dIOE4hOCYI5popeE5mgs8me1vx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="ChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChatClient" />
+      <module name="aio_chat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChatServer" />
+      <module name="aio_chat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChatClient" />
+      <module name="aio_chat" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.ChatClient" />
+      <item itemvalue="Application.ChatServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChatClient" />
+        <item itemvalue="Application.ChatServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70886062-ba8b-4069-995d-f568d0d7f88d" name="Default Changelist" comment="" />
+      <created>1592109025360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592109025360</updated>
+      <workItem from="1592109028322" duration="3959000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1592110814318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1592110814318" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592111928211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592111928211" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1592110893576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592110893576" />
+    <state x="498" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592111926760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1592111926760" />
+    <state width="1493" height="199" key="GridCell.Tab.0.bottom" timestamp="1592141416879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="199" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592141416879" />
+    <state width="1493" height="199" key="GridCell.Tab.0.center" timestamp="1592141416879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="199" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592141416879" />
+    <state width="1493" height="199" key="GridCell.Tab.0.left" timestamp="1592141416879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="199" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592141416879" />
+    <state width="1493" height="199" key="GridCell.Tab.0.right" timestamp="1592141416879">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="199" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592141416879" />
+  </component>
+</project>
